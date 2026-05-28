@@ -1,245 +1,332 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-05-28T00:00:00Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-05-28T20:54:37Z",
   "channels": [
     {
       "id": "abc-news-live",
       "name": "ABC News Live",
       "subtitle": "US news, breaking stories, analysis",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "ABC",
+      "playbackType": "youtube",
       "videoId": "IkKbZ_TC9Tc",
       "sourceURL": "https://www.youtube.com/@ABCNews/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 20
     },
     {
       "id": "cbs-news-247",
       "name": "CBS News 24/7",
       "subtitle": "Continuous national and global news",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "CBS",
+      "playbackType": "youtube",
       "videoId": "WqDXtycIfqg",
       "sourceURL": "https://www.youtube.com/@CBSNews/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 30
     },
     {
       "id": "nbc-news-now",
       "name": "NBC News NOW",
       "subtitle": "Live reporting and original programs",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "NBC",
+      "playbackType": "youtube",
       "videoId": "wTyhQ2rCLAw",
       "sourceURL": "https://www.youtube.com/@NBCNews/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 40
     },
     {
       "id": "france-24-english",
       "name": "France 24 English",
       "subtitle": "International news from a global lens",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "F24",
+      "playbackType": "youtube",
       "videoId": "HvZt-nh9sGg",
       "sourceURL": "https://www.youtube.com/@France24_en/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 50
     },
     {
       "id": "cna-247-live",
       "name": "CNA 24/7 Live",
       "subtitle": "Asia news, documentaries, current affairs",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "CNA",
+      "playbackType": "youtube",
       "videoId": "XWq5kBlakcQ",
       "sourceURL": "https://www.youtube.com/@channelnewsasia/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 60
     },
     {
       "id": "dw-news",
       "name": "DW News",
       "subtitle": "24/7 international news from Germany",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "DW",
+      "playbackType": "youtube",
       "videoId": "LuKwFajn37U",
       "sourceURL": "https://www.youtube.com/@dwnews/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 70
     },
     {
       "id": "al-jazeera-english",
       "name": "Al Jazeera English",
       "subtitle": "Global news and current affairs",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "AJE",
+      "playbackType": "youtube",
       "videoId": "gCNeDWCI0vo",
       "sourceURL": "https://www.youtube.com/@AlJazeeraEnglish/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 80
     },
     {
       "id": "euronews",
       "name": "Euronews",
       "subtitle": "European and world news coverage",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "EUR",
+      "playbackType": "youtube",
       "videoId": "pykpO5kQJ98",
       "sourceURL": "https://www.youtube.com/@euronews/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 90
     },
     {
       "id": "trt-world",
       "name": "TRT World",
       "subtitle": "International news and explainers",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "TRT",
+      "playbackType": "youtube",
       "videoId": "eIBtiuI1eQ8",
       "sourceURL": "https://www.youtube.com/@trtworld/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 100
     },
     {
       "id": "sky-news",
       "name": "Sky News",
       "subtitle": "UK and global breaking news",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "SKY",
-      "videoId": "YDvsBbKfLPA",
+      "playbackType": "youtube",
+      "videoId": "6ya0yNqiR98",
       "sourceURL": "https://www.youtube.com/@SkyNews/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 110
     },
     {
       "id": "bloomberg-television",
       "name": "Bloomberg Television",
       "subtitle": "Business, markets, and global news",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "BBG",
+      "playbackType": "youtube",
       "videoId": "iEpJwprxDdk",
       "sourceURL": "https://www.youtube.com/@markets/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 120
     },
     {
       "id": "arirang-news",
       "name": "Arirang News",
       "subtitle": "Korean and global news in English",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "ARI",
+      "playbackType": "youtube",
       "videoId": "NuLo0GvMxzM",
       "sourceURL": "https://www.youtube.com/@ArirangCoKrArirangNEWS/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 130
     },
     {
       "id": "yahoo-finance",
       "name": "Yahoo Finance",
       "subtitle": "Market news and business coverage",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "YF",
-      "videoId": "KQp-e_XQnDE",
+      "playbackType": "youtube",
+      "videoId": "X1YjTDJIGq8",
       "sourceURL": "https://www.youtube.com/@YahooFinance/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 140
     },
     {
       "id": "livenow-fox",
       "name": "LiveNOW from FOX",
       "subtitle": "Live events and breaking news",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "LNF",
+      "playbackType": "youtube",
       "videoId": "9fTzGUvzjQw",
       "sourceURL": "https://www.youtube.com/@livenowfox/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 150
     },
     {
       "id": "nhk-world-japan",
       "name": "NHK WORLD-JAPAN",
       "subtitle": "News, culture, travel, and documentaries",
+      "categoryId": "news",
       "category": "News",
       "badgeText": "NHK",
+      "playbackType": "youtube",
       "videoId": "f0lYkdA-Gtw",
       "sourceURL": "https://www.youtube.com/@NHKWORLDJAPAN/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 160
     },
     {
       "id": "nasa-live",
       "name": "NASA Live",
       "subtitle": "ISS live video and official NASA events",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "NASA",
+      "playbackType": "youtube",
       "videoId": "FuuC4dpSQ1M",
       "sourceURL": "https://www.youtube.com/@NASA/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 170
     },
     {
       "id": "nasa-iss-live",
       "name": "NASA ISS Live",
       "subtitle": "Official live views from the space station",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "ISS",
+      "playbackType": "youtube",
       "videoId": "HVKuW-DkE_U",
       "sourceURL": "https://www.nasa.gov/live/",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 180
     },
     {
       "id": "monterey-bay-aquarium",
       "name": "Monterey Bay Aquarium",
       "subtitle": "Official live ocean and animal cams",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "MBA",
+      "playbackType": "youtube",
       "videoId": "7N9-FODmuBA",
       "sourceURL": "https://www.youtube.com/@MontereyBayAquarium/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 190
     },
     {
       "id": "monterey-jelly-cam",
       "name": "Monterey Jelly Cam",
       "subtitle": "Calming live sea nettles",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "JLY",
+      "playbackType": "youtube",
       "videoId": "m1XcdxjVGos",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/jelly-cam",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 200
     },
     {
       "id": "monterey-sea-otter-cam",
       "name": "Monterey Sea Otter Cam",
       "subtitle": "Live sea otters from the aquarium",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "OTR",
+      "playbackType": "youtube",
       "videoId": "abbR-Ttd-cA",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/sea-otter-cam",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 210
     },
     {
       "id": "monterey-kelp-forest-cam",
       "name": "Monterey Kelp Forest Cam",
       "subtitle": "Live kelp forest habitat",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "KLP",
+      "playbackType": "youtube",
       "videoId": "w3LjpFhySTg",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/kelp-forest-cam",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 220
     },
     {
       "id": "monterey-open-sea-cam",
       "name": "Monterey Open Sea Cam",
       "subtitle": "Live ocean habitat window",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "SEA",
+      "playbackType": "youtube",
       "videoId": "nNTVZKz219U",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/open-sea-cam",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 230
     },
     {
       "id": "smithsonian-zoo",
       "name": "Smithsonian Zoo Webcams",
       "subtitle": "Official animal cams and learning activities",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "ZOO",
+      "playbackType": "youtube",
       "videoId": "6WF8zgsHiBM",
       "sourceURL": "https://www.youtube.com/@SmithsonianNZP/live",
-      "isActive": true
+      "isActive": true,
+      "sortOrder": 240
     },
     {
       "id": "cornell-bird-cams",
       "name": "Cornell Bird Cams",
       "subtitle": "Official birdwatching livestreams",
+      "categoryId": "science-nature",
       "category": "Science & Nature",
       "badgeText": "BRD",
+      "playbackType": "youtube",
       "videoId": "BRNsaDSzpnk",
       "sourceURL": "https://www.youtube.com/@CornellBirdCams/live",
+      "isActive": true,
+      "sortOrder": 250
+    }
+  ],
+  "catalogVersion": 3,
+  "categories": [
+    {
+      "id": "news",
+      "title": "News",
+      "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "id": "science-nature",
+      "title": "Science & Nature",
+      "sortOrder": 20,
       "isActive": true
     }
   ]
