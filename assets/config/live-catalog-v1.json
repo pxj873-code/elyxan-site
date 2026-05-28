@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-28T00:00:00Z",
+  "channels": [
+    {
+      "id": "abc-news-live",
+      "name": "ABC News Live",
+      "subtitle": "US news, breaking stories, analysis",
+      "category": "News",
+      "badgeText": "ABC",
+      "videoId": "IkKbZ_TC9Tc",
+      "sourceURL": "https://www.youtube.com/@ABCNews/live",
+      "isActive": true
+    },
+    {
+      "id": "cbs-news-247",
+      "name": "CBS News 24/7",
+      "subtitle": "Continuous national and global news",
+      "category": "News",
+      "badgeText": "CBS",
+      "videoId": "WqDXtycIfqg",
+      "sourceURL": "https://www.youtube.com/@CBSNews/live",
+      "isActive": true
+    },
+    {
+      "id": "nbc-news-now",
+      "name": "NBC News NOW",
+      "subtitle": "Live reporting and original programs",
+      "category": "News",
+      "badgeText": "NBC",
+      "videoId": "wTyhQ2rCLAw",
+      "sourceURL": "https://www.youtube.com/@NBCNews/live",
+      "isActive": true
+    },
+    {
+      "id": "france-24-english",
+      "name": "France 24 English",
+      "subtitle": "International news from a global lens",
+      "category": "News",
+      "badgeText": "F24",
+      "videoId": "HvZt-nh9sGg",
+      "sourceURL": "https://www.youtube.com/@France24_en/live",
+      "isActive": true
+    },
+    {
+      "id": "cna-247-live",
+      "name": "CNA 24/7 Live",
+      "subtitle": "Asia news, documentaries, current affairs",
+      "category": "News",
+      "badgeText": "CNA",
+      "videoId": "XWq5kBlakcQ",
+      "sourceURL": "https://www.youtube.com/@channelnewsasia/live",
+      "isActive": true
+    },
+    {
+      "id": "dw-news",
+      "name": "DW News",
+      "subtitle": "24/7 international news from Germany",
+      "category": "News",
+      "badgeText": "DW",
+      "videoId": "LuKwFajn37U",
+      "sourceURL": "https://www.youtube.com/@dwnews/live",
+      "isActive": true
+    },
+    {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English",
+      "subtitle": "Global news and current affairs",
+      "category": "News",
+      "badgeText": "AJE",
+      "videoId": "gCNeDWCI0vo",
+      "sourceURL": "https://www.youtube.com/@AlJazeeraEnglish/live",
+      "isActive": true
+    },
+    {
+      "id": "euronews",
+      "name": "Euronews",
+      "subtitle": "European and world news coverage",
+      "category": "News",
+      "badgeText": "EUR",
+      "videoId": "pykpO5kQJ98",
+      "sourceURL": "https://www.youtube.com/@euronews/live",
+      "isActive": true
+    },
+    {
+      "id": "trt-world",
+      "name": "TRT World",
+      "subtitle": "International news and explainers",
+      "category": "News",
+      "badgeText": "TRT",
+      "videoId": "eIBtiuI1eQ8",
+      "sourceURL": "https://www.youtube.com/@trtworld/live",
+      "isActive": true
+    },
+    {
+      "id": "sky-news",
+      "name": "Sky News",
+      "subtitle": "UK and global breaking news",
+      "category": "News",
+      "badgeText": "SKY",
+      "videoId": "YDvsBbKfLPA",
+      "sourceURL": "https://www.youtube.com/@SkyNews/live",
+      "isActive": true
+    },
+    {
+      "id": "bloomberg-television",
+      "name": "Bloomberg Television",
+      "subtitle": "Business, markets, and global news",
+      "category": "News",
+      "badgeText": "BBG",
+      "videoId": "iEpJwprxDdk",
+      "sourceURL": "https://www.youtube.com/@markets/live",
+      "isActive": true
+    },
+    {
+      "id": "arirang-news",
+      "name": "Arirang News",
+      "subtitle": "Korean and global news in English",
+      "category": "News",
+      "badgeText": "ARI",
+      "videoId": "NuLo0GvMxzM",
+      "sourceURL": "https://www.youtube.com/@ArirangCoKrArirangNEWS/live",
+      "isActive": true
+    },
+    {
+      "id": "yahoo-finance",
+      "name": "Yahoo Finance",
+      "subtitle": "Market news and business coverage",
+      "category": "News",
+      "badgeText": "YF",
+      "videoId": "KQp-e_XQnDE",
+      "sourceURL": "https://www.youtube.com/@YahooFinance/live",
+      "isActive": true
+    },
+    {
+      "id": "livenow-fox",
+      "name": "LiveNOW from FOX",
+      "subtitle": "Live events and breaking news",
+      "category": "News",
+      "badgeText": "LNF",
+      "videoId": "9fTzGUvzjQw",
+      "sourceURL": "https://www.youtube.com/@livenowfox/live",
+      "isActive": true
+    },
+    {
+      "id": "nhk-world-japan",
+      "name": "NHK WORLD-JAPAN",
+      "subtitle": "News, culture, travel, and documentaries",
+      "category": "News",
+      "badgeText": "NHK",
+      "videoId": "f0lYkdA-Gtw",
+      "sourceURL": "https://www.youtube.com/@NHKWORLDJAPAN/live",
+      "isActive": true
+    },
+    {
+      "id": "nasa-live",
+      "name": "NASA Live",
+      "subtitle": "ISS live video and official NASA events",
+      "category": "Science & Nature",
+      "badgeText": "NASA",
+      "videoId": "FuuC4dpSQ1M",
+      "sourceURL": "https://www.youtube.com/@NASA/live",
+      "isActive": true
+    },
+    {
+      "id": "nasa-iss-live",
+      "name": "NASA ISS Live",
+      "subtitle": "Official live views from the space station",
+      "category": "Science & Nature",
+      "badgeText": "ISS",
+      "videoId": "HVKuW-DkE_U",
+      "sourceURL": "https://www.nasa.gov/live/",
+      "isActive": true
+    },
+    {
+      "id": "monterey-bay-aquarium",
+      "name": "Monterey Bay Aquarium",
+      "subtitle": "Official live ocean and animal cams",
+      "category": "Science & Nature",
+      "badgeText": "MBA",
+      "videoId": "7N9-FODmuBA",
+      "sourceURL": "https://www.youtube.com/@MontereyBayAquarium/live",
+      "isActive": true
+    },
+    {
+      "id": "monterey-jelly-cam",
+      "name": "Monterey Jelly Cam",
+      "subtitle": "Calming live sea nettles",
+      "category": "Science & Nature",
+      "badgeText": "JLY",
+      "videoId": "m1XcdxjVGos",
+      "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/jelly-cam",
+      "isActive": true
+    },
+    {
+      "id": "monterey-sea-otter-cam",
+      "name": "Monterey Sea Otter Cam",
+      "subtitle": "Live sea otters from the aquarium",
+      "category": "Science & Nature",
+      "badgeText": "OTR",
+      "videoId": "abbR-Ttd-cA",
+      "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/sea-otter-cam",
+      "isActive": true
+    },
+    {
+      "id": "monterey-kelp-forest-cam",
+      "name": "Monterey Kelp Forest Cam",
+      "subtitle": "Live kelp forest habitat",
+      "category": "Science & Nature",
+      "badgeText": "KLP",
+      "videoId": "w3LjpFhySTg",
+      "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/kelp-forest-cam",
+      "isActive": true
+    },
+    {
+      "id": "monterey-open-sea-cam",
+      "name": "Monterey Open Sea Cam",
+      "subtitle": "Live ocean habitat window",
+      "category": "Science & Nature",
+      "badgeText": "SEA",
+      "videoId": "nNTVZKz219U",
+      "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/open-sea-cam",
+      "isActive": true
+    },
+    {
+      "id": "smithsonian-zoo",
+      "name": "Smithsonian Zoo Webcams",
+      "subtitle": "Official animal cams and learning activities",
+      "category": "Science & Nature",
+      "badgeText": "ZOO",
+      "videoId": "6WF8zgsHiBM",
+      "sourceURL": "https://www.youtube.com/@SmithsonianNZP/live",
+      "isActive": true
+    },
+    {
+      "id": "cornell-bird-cams",
+      "name": "Cornell Bird Cams",
+      "subtitle": "Official birdwatching livestreams",
+      "category": "Science & Nature",
+      "badgeText": "BRD",
+      "videoId": "BRNsaDSzpnk",
+      "sourceURL": "https://www.youtube.com/@CornellBirdCams/live",
+      "isActive": true
+    }
+  ]
+}
