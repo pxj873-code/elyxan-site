@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-05-28T20:54:37Z",
+  "updatedAt": "2026-05-30T22:20:00Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -10,7 +10,7 @@
       "category": "News",
       "badgeText": "ABC",
       "playbackType": "youtube",
-      "videoId": "IkKbZ_TC9Tc",
+      "videoId": "iipR5yUp36o",
       "sourceURL": "https://www.youtube.com/@ABCNews/live",
       "isActive": true,
       "sortOrder": 20
@@ -23,7 +23,7 @@
       "category": "News",
       "badgeText": "CBS",
       "playbackType": "youtube",
-      "videoId": "WqDXtycIfqg",
+      "videoId": "TEUag3EEIRQ",
       "sourceURL": "https://www.youtube.com/@CBSNews/live",
       "isActive": true,
       "sortOrder": 30
@@ -36,7 +36,7 @@
       "category": "News",
       "badgeText": "NBC",
       "playbackType": "youtube",
-      "videoId": "wTyhQ2rCLAw",
+      "videoId": "t7OUAw1LNBc",
       "sourceURL": "https://www.youtube.com/@NBCNews/live",
       "isActive": true,
       "sortOrder": 40
@@ -127,7 +127,7 @@
       "category": "News",
       "badgeText": "SKY",
       "playbackType": "youtube",
-      "videoId": "6ya0yNqiR98",
+      "videoId": "qK0u5Gm-B-Y",
       "sourceURL": "https://www.youtube.com/@SkyNews/live",
       "isActive": true,
       "sortOrder": 110
@@ -153,7 +153,7 @@
       "category": "News",
       "badgeText": "ARI",
       "playbackType": "youtube",
-      "videoId": "NuLo0GvMxzM",
+      "videoId": "VU_e-O8LqIE",
       "sourceURL": "https://www.youtube.com/@ArirangCoKrArirangNEWS/live",
       "isActive": true,
       "sortOrder": 130
@@ -166,7 +166,7 @@
       "category": "News",
       "badgeText": "YF",
       "playbackType": "youtube",
-      "videoId": "X1YjTDJIGq8",
+      "videoId": "KQp-e_XQnDE",
       "sourceURL": "https://www.youtube.com/@YahooFinance/live",
       "isActive": true,
       "sortOrder": 140
@@ -179,7 +179,7 @@
       "category": "News",
       "badgeText": "LNF",
       "playbackType": "youtube",
-      "videoId": "9fTzGUvzjQw",
+      "videoId": "FiwwsSwFDL4",
       "sourceURL": "https://www.youtube.com/@livenowfox/live",
       "isActive": true,
       "sortOrder": 150
@@ -315,7 +315,7 @@
       "sortOrder": 250
     }
   ],
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "categories": [
     {
       "id": "news",
