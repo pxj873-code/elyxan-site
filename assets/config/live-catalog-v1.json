@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-05-30T22:20:00Z",
+  "updatedAt": "2026-05-31T07:40:00Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -25,8 +25,21 @@
       "playbackType": "youtube",
       "videoId": "TEUag3EEIRQ",
       "sourceURL": "https://www.youtube.com/@CBSNews/live",
-      "isActive": true,
+      "isActive": false,
       "sortOrder": 30
+    },
+    {
+      "id": "abc-news-australia",
+      "name": "ABC News Australia",
+      "subtitle": "Australian and global news coverage",
+      "categoryId": "news",
+      "category": "News",
+      "badgeText": "AUS",
+      "playbackType": "youtube",
+      "videoId": "vOTiJkg1voo",
+      "sourceURL": "https://www.youtube.com/@abcnewsaustralia/live",
+      "isActive": true,
+      "sortOrder": 35
     },
     {
       "id": "nbc-news-now",
@@ -127,7 +140,7 @@
       "category": "News",
       "badgeText": "SKY",
       "playbackType": "youtube",
-      "videoId": "qK0u5Gm-B-Y",
+      "videoId": "TcVIeVfRhsU",
       "sourceURL": "https://www.youtube.com/@SkyNews/live",
       "isActive": true,
       "sortOrder": 110
@@ -315,7 +328,7 @@
       "sortOrder": 250
     }
   ],
-  "catalogVersion": 4,
+  "catalogVersion": 6,
   "categories": [
     {
       "id": "news",
