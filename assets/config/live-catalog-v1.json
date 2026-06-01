@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-01T06:31:37Z",
+  "updatedAt": "2026-06-01T07:23:15Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -140,8 +140,8 @@
       "category": "News",
       "badgeText": "SKY",
       "playbackType": "youtube",
-      "videoId": "TcVIeVfRhsU",
-      "sourceURL": "https://www.youtube.com/@SkyNews/live",
+      "videoId": "YDvsBbKfLPA",
+      "sourceURL": "https://www.youtube.com/watch?v=YDvsBbKfLPA",
       "isActive": true,
       "sortOrder": 110
     },
@@ -166,8 +166,8 @@
       "category": "News",
       "badgeText": "ARI",
       "playbackType": "youtube",
-      "videoId": "VU_e-O8LqIE",
-      "sourceURL": "https://www.youtube.com/@ArirangCoKrArirangNEWS/live",
+      "videoId": "CJVBX7KI5nU",
+      "sourceURL": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
       "isActive": true,
       "sortOrder": 130
     },
@@ -328,7 +328,7 @@
       "sortOrder": 250
     }
   ],
-  "catalogVersion": 7,
+  "catalogVersion": 8,
   "categories": [
     {
       "id": "news",
