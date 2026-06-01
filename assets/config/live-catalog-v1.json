@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-01T07:23:15Z",
+  "updatedAt": "2026-06-01T21:37:46Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -49,7 +49,7 @@
       "category": "News",
       "badgeText": "NBC",
       "playbackType": "youtube",
-      "videoId": "t7OUAw1LNBc",
+      "videoId": "HNxXFs8hKb4",
       "sourceURL": "https://www.youtube.com/@NBCNews/live",
       "isActive": true,
       "sortOrder": 40
@@ -192,7 +192,7 @@
       "category": "News",
       "badgeText": "LNF",
       "playbackType": "youtube",
-      "videoId": "QP1srffh4vo",
+      "videoId": "M3JHvtWfxag",
       "sourceURL": "https://www.youtube.com/@livenowfox/live",
       "isActive": true,
       "sortOrder": 150
@@ -328,7 +328,7 @@
       "sortOrder": 250
     }
   ],
-  "catalogVersion": 8,
+  "catalogVersion": 9,
   "categories": [
     {
       "id": "news",
