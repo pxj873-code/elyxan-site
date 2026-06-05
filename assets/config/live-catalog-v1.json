@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-04T07:13:32.530Z",
+  "updatedAt": "2026-06-05T04:58:59.794Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -192,7 +192,7 @@
       "category": "News",
       "badgeText": "LNF",
       "playbackType": "youtube",
-      "videoId": "N-78gkjRhHk",
+      "videoId": "Dk4jyytPgLg",
       "sourceURL": "https://www.youtube.com/@livenowfox/live",
       "isActive": true,
       "sortOrder": 150
@@ -328,7 +328,7 @@
       "sortOrder": 250
     }
   ],
-  "catalogVersion": 11,
+  "catalogVersion": 12,
   "categories": [
     {
       "id": "news",
