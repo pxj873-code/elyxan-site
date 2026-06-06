@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-06T19:44:51.392Z",
+  "updatedAt": "2026-06-06T20:38:41.000Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -288,6 +288,22 @@
       "providerChannelId": "UCpVm7bg6pXKo1Pr6k5kxG9A"
     },
     {
+      "id": "earthtv-world-live",
+      "name": "earthTV World Live",
+      "subtitle": "Live views from around the world",
+      "categoryId": "science-nature",
+      "category": "Science & Nature",
+      "badgeText": "ETV",
+      "playbackType": "youtube",
+      "videoId": "HfgIFGbdGJ0",
+      "sourceURL": "https://www.youtube.com/watch?v=HfgIFGbdGJ0",
+      "isActive": true,
+      "sortOrder": 188,
+      "description": "Live views from earthTV's international camera network, connecting places and everyday scenes around the world.",
+      "maintenancePolicy": "youtube-program-live",
+      "providerChannelId": "UCRuyAVeVd7oUwh0LWmxxBBQ"
+    },
+    {
       "id": "monterey-bay-aquarium",
       "name": "Monterey Bay Aquarium",
       "subtitle": "Official live ocean and animal cams",
@@ -386,7 +402,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 18,
+  "catalogVersion": 19,
   "categories": [
     {
       "id": "news",
