@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-06T07:21:31.345Z",
+  "updatedAt": "2026-06-06T18:10:12.297Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -203,7 +203,7 @@
       "category": "News",
       "badgeText": "LNF",
       "playbackType": "youtube",
-      "videoId": "a9Ij8HsCfkg",
+      "videoId": "C96oohpWBGw",
       "sourceURL": "https://www.youtube.com/@livenowfox/live",
       "isActive": true,
       "sortOrder": 150,
@@ -350,7 +350,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 15,
+  "catalogVersion": 16,
   "categories": [
     {
       "id": "news",
