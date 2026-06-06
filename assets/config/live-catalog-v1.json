@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-05T10:18:27.673Z",
+  "updatedAt": "2026-06-06T07:21:31.345Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -13,7 +13,8 @@
       "videoId": "iipR5yUp36o",
       "sourceURL": "https://www.youtube.com/@ABCNews/live",
       "isActive": true,
-      "sortOrder": 20
+      "sortOrder": 20,
+      "description": "Breaking national and international news, exclusive interviews, and continuous live coverage."
     },
     {
       "id": "cbs-news-247",
@@ -39,7 +40,8 @@
       "videoId": "vOTiJkg1voo",
       "sourceURL": "https://www.youtube.com/@abcnewsaustralia/live",
       "isActive": true,
-      "sortOrder": 35
+      "sortOrder": 35,
+      "description": "Live Australian and international news, breaking events, analysis, and programs from the Australian Broadcasting Corporation."
     },
     {
       "id": "nbc-news-now",
@@ -65,7 +67,8 @@
       "videoId": "HvZt-nh9sGg",
       "sourceURL": "https://www.youtube.com/@France24_en/live",
       "isActive": true,
-      "sortOrder": 50
+      "sortOrder": 50,
+      "description": "International news and analysis from around the world, available around the clock."
     },
     {
       "id": "cna-247-live",
@@ -78,7 +81,8 @@
       "videoId": "XWq5kBlakcQ",
       "sourceURL": "https://www.youtube.com/@channelnewsasia/live",
       "isActive": true,
-      "sortOrder": 60
+      "sortOrder": 60,
+      "description": "Singapore-based coverage of global developments from an Asian perspective, with news, documentaries, and expert analysis."
     },
     {
       "id": "dw-news",
@@ -91,7 +95,8 @@
       "videoId": "LuKwFajn37U",
       "sourceURL": "https://www.youtube.com/@dwnews/live",
       "isActive": true,
-      "sortOrder": 70
+      "sortOrder": 70,
+      "description": "Global breaking news and in-depth analysis from Germany’s international broadcaster."
     },
     {
       "id": "al-jazeera-english",
@@ -104,7 +109,8 @@
       "videoId": "gCNeDWCI0vo",
       "sourceURL": "https://www.youtube.com/@AlJazeeraEnglish/live",
       "isActive": true,
-      "sortOrder": 80
+      "sortOrder": 80,
+      "description": "Global reporting focused on underreported events, diverse perspectives, and stories affecting people’s lives."
     },
     {
       "id": "euronews",
@@ -117,7 +123,8 @@
       "videoId": "pykpO5kQJ98",
       "sourceURL": "https://www.youtube.com/@euronews/live",
       "isActive": true,
-      "sortOrder": 90
+      "sortOrder": 90,
+      "description": "European and international news produced by a multilingual team of journalists from across the continent."
     },
     {
       "id": "trt-world",
@@ -130,7 +137,8 @@
       "videoId": "oNUi_iXNPeo",
       "sourceURL": "https://www.youtube.com/@trtworld/live",
       "isActive": true,
-      "sortOrder": 100
+      "sortOrder": 100,
+      "description": "International reporting that looks beyond headlines and explores the people and issues behind major stories."
     },
     {
       "id": "sky-news",
@@ -156,7 +164,8 @@
       "videoId": "iEpJwprxDdk",
       "sourceURL": "https://www.youtube.com/@markets/live",
       "isActive": true,
-      "sortOrder": 120
+      "sortOrder": 120,
+      "description": "Financial news, market coverage, and analysis from Bloomberg Television."
     },
     {
       "id": "arirang-news",
@@ -169,7 +178,8 @@
       "videoId": "CJVBX7KI5nU",
       "sourceURL": "https://www.youtube.com/watch?v=CJVBX7KI5nU",
       "isActive": true,
-      "sortOrder": 130
+      "sortOrder": 130,
+      "description": "Korea for the World, the World for Korea! As a global broadcast representing Korea, Arirang TV strives to promote the right understanding of Korea around the world and bring the global community closer through TV and radio."
     },
     {
       "id": "yahoo-finance",
@@ -182,7 +192,8 @@
       "videoId": "KQp-e_XQnDE",
       "sourceURL": "https://www.youtube.com/@YahooFinance/live",
       "isActive": true,
-      "sortOrder": 140
+      "sortOrder": 140,
+      "description": "Financial news and information designed to help investors understand markets and manage their wealth."
     },
     {
       "id": "livenow-fox",
@@ -195,7 +206,8 @@
       "videoId": "a9Ij8HsCfkg",
       "sourceURL": "https://www.youtube.com/@livenowfox/live",
       "isActive": true,
-      "sortOrder": 150
+      "sortOrder": 150,
+      "description": "A continuous stream of breaking news, live events, and developing stories with limited commentary."
     },
     {
       "id": "nhk-world-japan",
@@ -208,7 +220,8 @@
       "videoId": "f0lYkdA-Gtw",
       "sourceURL": "https://www.youtube.com/@NHKWORLDJAPAN/live",
       "isActive": true,
-      "sortOrder": 160
+      "sortOrder": 160,
+      "description": "News and programming about Japan, Asia, and the wider world from Japan’s international public broadcaster."
     },
     {
       "id": "nasa-live",
@@ -221,7 +234,8 @@
       "videoId": "FuuC4dpSQ1M",
       "sourceURL": "https://www.youtube.com/@NASA/live",
       "isActive": true,
-      "sortOrder": 170
+      "sortOrder": 170,
+      "description": "Space exploration, scientific discovery, Earth observation, and official NASA events."
     },
     {
       "id": "nasa-iss-live",
@@ -234,7 +248,8 @@
       "videoId": "HVKuW-DkE_U",
       "sourceURL": "https://www.nasa.gov/live/",
       "isActive": true,
-      "sortOrder": 180
+      "sortOrder": 180,
+      "description": "NASA broadcasts, launches, landings, briefings, and other scheduled live events."
     },
     {
       "id": "monterey-bay-aquarium",
@@ -247,7 +262,8 @@
       "videoId": "7N9-FODmuBA",
       "sourceURL": "https://www.youtube.com/@MontereyBayAquarium/live",
       "isActive": true,
-      "sortOrder": 190
+      "sortOrder": 190,
+      "description": "A live window into marine life, including sea otters, sharks, penguins, jellies, and other ocean animals."
     },
     {
       "id": "monterey-jelly-cam",
@@ -260,7 +276,8 @@
       "videoId": "m1XcdxjVGos",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/jelly-cam",
       "isActive": true,
-      "sortOrder": 200
+      "sortOrder": 200,
+      "description": "Watch sea nettles drift and pulse inside the Monterey Bay Aquarium."
     },
     {
       "id": "monterey-sea-otter-cam",
@@ -273,7 +290,8 @@
       "videoId": "abbR-Ttd-cA",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/sea-otter-cam",
       "isActive": true,
-      "sortOrder": 210
+      "sortOrder": 210,
+      "description": "Watch sea otters swim, play, rest, and take part in daily feeding sessions."
     },
     {
       "id": "monterey-kelp-forest-cam",
@@ -286,7 +304,8 @@
       "videoId": "w3LjpFhySTg",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/kelp-forest-cam",
       "isActive": true,
-      "sortOrder": 220
+      "sortOrder": 220,
+      "description": "A live view inside the Monterey Bay Aquarium’s kelp forest habitat and feeding shows."
     },
     {
       "id": "monterey-open-sea-cam",
@@ -299,7 +318,8 @@
       "videoId": "nNTVZKz219U",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/open-sea-cam",
       "isActive": true,
-      "sortOrder": 230
+      "sortOrder": 230,
+      "description": "Live views of open-ocean animals including tuna, turtles, sharks, and sardines."
     },
     {
       "id": "smithsonian-zoo",
@@ -312,7 +332,8 @@
       "videoId": "6WF8zgsHiBM",
       "sourceURL": "https://www.youtube.com/@SmithsonianNZP/live",
       "isActive": true,
-      "sortOrder": 240
+      "sortOrder": 240,
+      "description": "The Zoo's animal webcams are some of the most famous on the internet. Tune in to watch the Zoo's giant pandas, elephants, lions and naked mole-rats — live!"
     },
     {
       "id": "cornell-bird-cams",
@@ -325,10 +346,11 @@
       "videoId": "BRNsaDSzpnk",
       "sourceURL": "https://www.youtube.com/@CornellBirdCams/live",
       "isActive": true,
-      "sortOrder": 250
+      "sortOrder": 250,
+      "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 13,
+  "catalogVersion": 15,
   "categories": [
     {
       "id": "news",
