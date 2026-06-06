@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-06T18:10:12.297Z",
+  "updatedAt": "2026-06-06T18:48:04.000Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -252,6 +252,20 @@
       "description": "NASA broadcasts, launches, landings, briefings, and other scheduled live events."
     },
     {
+      "id": "national-geographic-live",
+      "name": "National Geographic Live",
+      "subtitle": "Live nature, wildlife, and exploration",
+      "categoryId": "science-nature",
+      "category": "Science & Nature",
+      "badgeText": "NG",
+      "playbackType": "youtube",
+      "videoId": "lJOROUvD8sU",
+      "sourceURL": "https://www.youtube.com/@NatGeo/live",
+      "isActive": true,
+      "sortOrder": 185,
+      "description": "Live journeys through national parks, wildlife, science, and exploration from National Geographic."
+    },
+    {
       "id": "monterey-bay-aquarium",
       "name": "Monterey Bay Aquarium",
       "subtitle": "Official live ocean and animal cams",
@@ -350,7 +364,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 16,
+  "catalogVersion": 17,
   "categories": [
     {
       "id": "news",
