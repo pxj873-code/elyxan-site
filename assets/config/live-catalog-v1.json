@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-15T23:10:59.753Z",
+  "updatedAt": "2026-06-17T08:34:10.461Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -14,7 +14,10 @@
       "sourceURL": "https://www.youtube.com/@ABCNews/live",
       "isActive": true,
       "sortOrder": 20,
-      "description": "Breaking national and international news, exclusive interviews, and continuous live coverage."
+      "description": "Breaking national and international news, exclusive interviews, and continuous live coverage.",
+      "maintenancePolicy": "youtube-primary-with-rescue",
+      "primaryVideoId": "iipR5yUp36o",
+      "rescueDiscoveryURL": "https://www.youtube.com/@ABCNews/live"
     },
     {
       "id": "cbs-news-247",
@@ -37,11 +40,14 @@
       "category": "News",
       "badgeText": "AUS",
       "playbackType": "youtube",
-      "videoId": "rKo73trjYZ0",
+      "videoId": "vOTiJkg1voo",
       "sourceURL": "https://www.youtube.com/@abcnewsaustralia/live",
       "isActive": true,
       "sortOrder": 35,
-      "description": "Live Australian and international news, breaking events, analysis, and programs from the Australian Broadcasting Corporation."
+      "description": "Live Australian and international news, breaking events, analysis, and programs from the Australian Broadcasting Corporation.",
+      "maintenancePolicy": "youtube-primary-with-rescue",
+      "primaryVideoId": "vOTiJkg1voo",
+      "rescueDiscoveryURL": "https://www.youtube.com/@abcnewsaustralia/live"
     },
     {
       "id": "nbc-news-now",
@@ -395,14 +401,14 @@
       "category": "Science & Nature",
       "badgeText": "BRD",
       "playbackType": "youtube",
-      "videoId": "BRNsaDSzpnk",
+      "videoId": "Mm_zVDDUeNA",
       "sourceURL": "https://www.youtube.com/@CornellBirdCams/live",
       "isActive": true,
       "sortOrder": 250,
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 21,
+  "catalogVersion": 22,
   "categories": [
     {
       "id": "news",
