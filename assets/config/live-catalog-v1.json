@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-17T11:20:28.423Z",
+  "updatedAt": "2026-06-18T00:35:21.392Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -327,6 +327,21 @@
       "providerChannelId": "UCRuyAVeVd7oUwh0LWmxxBBQ"
     },
     {
+      "id": "big-bear-eagle-cam",
+      "name": "Big Bear Eagle Cam",
+      "subtitle": "Live bald eagle nest cam",
+      "categoryId": "science-nature",
+      "category": "Science & Discovery",
+      "badgeText": "EGL",
+      "playbackType": "youtube",
+      "videoId": "B4-L2nfGcuE",
+      "sourceURL": "https://www.youtube.com/watch?v=B4-L2nfGcuE",
+      "isActive": true,
+      "sortOrder": 189,
+      "description": "A live view of the Big Bear bald eagle nest from Friends of Big Bear Valley.",
+      "maintenancePolicy": "youtube-program-live"
+    },
+    {
       "id": "monterey-bay-aquarium",
       "name": "Monterey Bay Aquarium",
       "subtitle": "Official live ocean and animal cams",
@@ -406,7 +421,7 @@
       "playbackType": "youtube",
       "videoId": "6WF8zgsHiBM",
       "sourceURL": "https://www.youtube.com/@SmithsonianNZP/live",
-      "isActive": true,
+      "isActive": false,
       "sortOrder": 240,
       "description": "The Zoo's animal webcams are some of the most famous on the internet. Tune in to watch the Zoo's giant pandas, elephants, lions and naked mole-rats — live!"
     },
@@ -425,7 +440,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 24,
+  "catalogVersion": 25,
   "categories": [
     {
       "id": "news",
