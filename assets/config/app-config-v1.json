@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-18T00:00:00Z",
+  "updatedAt": "2026-06-19T03:15:00Z",
   "minimumSupportedBuild": 1,
   "recommendedBuild": 1,
   "appStoreURL": "https://channelcove.com",
@@ -8,5 +8,5 @@
   "forceUpdateMessage": "Please update ChannelCove to keep live channel playback working.",
   "recommendedUpdateTitle": "Update Available",
   "recommendedUpdateMessage": "A newer version of ChannelCove is available.",
-  "analyticsEventsURL": null
+  "analyticsEventsURL": "https://channelcove-analytics.channelcove.workers.dev/events"
 }
