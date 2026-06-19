@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-19T20:35:00.000Z",
+  "updatedAt": "2026-06-19T22:25:00.000Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -377,16 +377,18 @@
     {
       "id": "monterey-bay-aquarium",
       "name": "Monterey Bay Aquarium",
-      "subtitle": "Official live ocean and animal cams",
+      "subtitle": "Official live shark and ocean cams",
       "categoryId": "science-nature",
       "category": "Science & Exploration",
       "badgeText": "MBA",
       "playbackType": "youtube",
-      "videoId": "7N9-FODmuBA",
-      "sourceURL": "https://www.youtube.com/@MontereyBayAquarium/live",
+      "videoId": "tEtg5Kg3voQ",
+      "sourceURL": "https://www.youtube.com/watch?v=tEtg5Kg3voQ",
       "isActive": true,
       "sortOrder": 190,
-      "description": "A live window into marine life, including sea otters, sharks, penguins, jellies, and other ocean animals."
+      "description": "Watch live sharks and other marine life from the Monterey Bay Aquarium.",
+      "maintenancePolicy": "youtube-program-live",
+      "providerChannelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
     },
     {
       "id": "monterey-jelly-cam",
@@ -473,7 +475,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 29,
+  "catalogVersion": 30,
   "categories": [
     {
       "id": "news",
