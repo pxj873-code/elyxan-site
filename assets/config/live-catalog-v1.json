@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-19T22:25:00.000Z",
+  "updatedAt": "2026-06-20T09:05:00.000Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -360,6 +360,21 @@
       "providerChannelId": "UCRuyAVeVd7oUwh0LWmxxBBQ"
     },
     {
+      "id": "africam-nkorho-bush-lodge",
+      "name": "Africam Nkorho Bush Lodge",
+      "subtitle": "Live safari from South Africa",
+      "categoryId": "science-nature",
+      "category": "Science & Exploration",
+      "badgeText": "AFR",
+      "playbackType": "youtube",
+      "videoId": "sQAhSkjRKGk",
+      "sourceURL": "https://www.youtube.com/watch?v=sQAhSkjRKGk",
+      "isActive": true,
+      "sortOrder": 189,
+      "description": "A 24/7 live safari stream from Nkorho Bush Lodge in South Africa's Sabi Sand Game Reserve.",
+      "maintenancePolicy": "manual-review"
+    },
+    {
       "id": "big-bear-eagle-cam",
       "name": "Big Bear Eagle Cam",
       "subtitle": "Live bald eagle nest cam",
@@ -475,7 +490,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 30,
+  "catalogVersion": 31,
   "categories": [
     {
       "id": "news",
