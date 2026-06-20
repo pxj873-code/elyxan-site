@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-20T09:05:00.000Z",
+  "updatedAt": "2026-06-20T09:25:00.000Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -385,7 +385,7 @@
       "videoId": "B4-L2nfGcuE",
       "sourceURL": "https://www.youtube.com/watch?v=B4-L2nfGcuE",
       "isActive": true,
-      "sortOrder": 189,
+      "sortOrder": 190,
       "description": "A live view of the Big Bear bald eagle nest from Friends of Big Bear Valley.",
       "maintenancePolicy": "youtube-program-live"
     },
@@ -400,7 +400,7 @@
       "videoId": "tEtg5Kg3voQ",
       "sourceURL": "https://www.youtube.com/watch?v=tEtg5Kg3voQ",
       "isActive": true,
-      "sortOrder": 190,
+      "sortOrder": 200,
       "description": "Watch live sharks and other marine life from the Monterey Bay Aquarium.",
       "maintenancePolicy": "youtube-program-live",
       "providerChannelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ"
@@ -416,7 +416,7 @@
       "videoId": "m1XcdxjVGos",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/jelly-cam",
       "isActive": true,
-      "sortOrder": 200,
+      "sortOrder": 210,
       "description": "Watch sea nettles drift and pulse inside the Monterey Bay Aquarium."
     },
     {
@@ -430,7 +430,7 @@
       "videoId": "abbR-Ttd-cA",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/sea-otter-cam",
       "isActive": true,
-      "sortOrder": 210,
+      "sortOrder": 220,
       "description": "Watch sea otters swim, play, rest, and take part in daily feeding sessions."
     },
     {
@@ -444,7 +444,7 @@
       "videoId": "w3LjpFhySTg",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/kelp-forest-cam",
       "isActive": true,
-      "sortOrder": 220,
+      "sortOrder": 230,
       "description": "A live view inside the Monterey Bay Aquarium’s kelp forest habitat and feeding shows."
     },
     {
@@ -458,7 +458,7 @@
       "videoId": "nNTVZKz219U",
       "sourceURL": "https://www.montereybayaquarium.org/cams-videos/live-cams/open-sea-cam",
       "isActive": true,
-      "sortOrder": 230,
+      "sortOrder": 240,
       "description": "Live views of open-ocean animals including tuna, turtles, sharks, and sardines."
     },
     {
@@ -490,7 +490,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 31,
+  "catalogVersion": 32,
   "categories": [
     {
       "id": "news",
