@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-20T09:25:00.000Z",
+  "updatedAt": "2026-06-21T07:17:33.000Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -375,6 +375,36 @@
       "maintenancePolicy": "manual-review"
     },
     {
+      "id": "namibia-namib-desert",
+      "name": "Namibia: Namib Desert",
+      "subtitle": "Live desert waterhole cam",
+      "categoryId": "science-nature",
+      "category": "Science & Exploration",
+      "badgeText": "NAM",
+      "playbackType": "youtube",
+      "videoId": "ydYDqZQpim8",
+      "sourceURL": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+      "isActive": true,
+      "sortOrder": 190,
+      "description": "A 24/7 live view from a remote Namib Desert waterhole, showing wildlife and desert landscapes in Namibia.",
+      "maintenancePolicy": "manual-review"
+    },
+    {
+      "id": "namibia-okaukuejo-waterhole",
+      "name": "Namibia: Okaukuejo Waterhole",
+      "subtitle": "Live Etosha wildlife cam",
+      "categoryId": "science-nature",
+      "category": "Science & Exploration",
+      "badgeText": "ETO",
+      "playbackType": "youtube",
+      "videoId": "AeMUdOPFcXI",
+      "sourceURL": "https://www.youtube.com/watch?v=AeMUdOPFcXI",
+      "isActive": true,
+      "sortOrder": 191,
+      "description": "A live wildlife webcam from the Okaukuejo Waterhole in Etosha National Park, Namibia.",
+      "maintenancePolicy": "manual-review"
+    },
+    {
       "id": "big-bear-eagle-cam",
       "name": "Big Bear Eagle Cam",
       "subtitle": "Live bald eagle nest cam",
@@ -385,7 +415,7 @@
       "videoId": "B4-L2nfGcuE",
       "sourceURL": "https://www.youtube.com/watch?v=B4-L2nfGcuE",
       "isActive": true,
-      "sortOrder": 190,
+      "sortOrder": 192,
       "description": "A live view of the Big Bear bald eagle nest from Friends of Big Bear Valley.",
       "maintenancePolicy": "youtube-program-live"
     },
@@ -399,7 +429,7 @@
       "playbackType": "youtube",
       "videoId": "tEtg5Kg3voQ",
       "sourceURL": "https://www.youtube.com/watch?v=tEtg5Kg3voQ",
-      "isActive": true,
+      "isActive": false,
       "sortOrder": 200,
       "description": "Watch live sharks and other marine life from the Monterey Bay Aquarium.",
       "maintenancePolicy": "youtube-program-live",
@@ -490,7 +520,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 32,
+  "catalogVersion": 33,
   "categories": [
     {
       "id": "news",
