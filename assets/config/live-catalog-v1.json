@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-06-27T09:07:07.869Z",
+  "updatedAt": "2026-06-28T14:18:27.493Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -42,15 +42,12 @@
       "playbackType": "youtube",
       "videoId": "vOTiJkg1voo",
       "sourceURL": "https://www.youtube.com/@abcnewsaustralia/live",
-      "isActive": false,
+      "isActive": true,
       "sortOrder": 35,
       "description": "Live Australian and international news, breaking events, analysis, and programs from the Australian Broadcasting Corporation.",
       "maintenancePolicy": "youtube-primary-with-rescue",
       "primaryVideoId": "vOTiJkg1voo",
-      "rescueDiscoveryURL": "https://www.youtube.com/@abcnewsaustralia/live",
-      "availability": "temporarilyHidden",
-      "hiddenReason": "playbackUnavailableNoVerifiedRescue",
-      "hiddenAt": "2026-06-19T18:04:28.369Z"
+      "rescueDiscoveryURL": "https://www.youtube.com/@abcnewsaustralia/live"
     },
     {
       "id": "nbc-news-now",
@@ -506,7 +503,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 37,
+  "catalogVersion": 38,
   "categories": [
     {
       "id": "news",
