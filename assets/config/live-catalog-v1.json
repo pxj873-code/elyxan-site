@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-14T14:33:04.454Z",
+  "updatedAt": "2026-10-22T17:15:05.384Z",
   "channels": [
     {
       "id": "abc-news-live",
@@ -284,7 +284,7 @@
       "category": "Science & Exploration",
       "badgeText": "NASA",
       "playbackType": "youtube",
-      "videoId": "awQzjn72bI0",
+      "videoId": "ROboUHfPUrU",
       "sourceURL": "https://www.youtube.com/@NASA/live",
       "isActive": true,
       "sortOrder": 170,
@@ -521,7 +521,7 @@
       "description": "The Cornell Lab Bird Cams connects viewers worldwide to the diverse and intimate world of birds. We work to make watching an active experience, sparking awareness and inspiration that can lead to conservation, education, and engagement with birds."
     }
   ],
-  "catalogVersion": 50,
+  "catalogVersion": 51,
   "categories": [
     {
       "id": "news",
